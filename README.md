@@ -7,6 +7,10 @@ This project was created during the React track of Rocketseat's Next Level Week,
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React-Toastify](https://www.npmjs.com/package/react-toastify)
 
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
 ## Creating the Vite Project
 
 To start the Vite project, you can execute the following command in your terminal:
@@ -38,3 +42,7 @@ To run the project, execute the following command:
 ```bash
 npm run dev
 ```
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
