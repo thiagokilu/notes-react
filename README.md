@@ -6,4 +6,5 @@ E bibliotecas como:
 [React-Toastify](https://www.npmjs.com/package/react-toastify)
 
 ```bash
- npm install git
+npm install git
+npm install git
