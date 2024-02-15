@@ -5,6 +5,7 @@ E bibliotecas como:
 [Tailwindcss](https://tailwindcss.com/)
 [React-Toastify](https://www.npmjs.com/package/react-toastify)
 
-```bash
-npm install git
-npm install git
+# Criando vite project
+
+``` bash
+npm create vite@latest
