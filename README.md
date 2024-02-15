@@ -38,4 +38,3 @@ To run the project, execute the following command:
 ```bash
 npm run dev
 ```
-```
