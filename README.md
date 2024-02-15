@@ -5,7 +5,6 @@ E bibliotecas como:
 [Tailwindcss](https://tailwindcss.com/)
 [React-Toastify](https://www.npmjs.com/package/react-toastify)
 
-```
-$ npm install git
-$ npm install git
+```bash
+ npm install git
 ```
