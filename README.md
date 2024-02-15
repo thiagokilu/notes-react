@@ -2,6 +2,6 @@
 
 Projeto feito na trilha de React da Rocketseat no nlw, utilizando react 
 
-```jsx
+```
 npm install git
 ```
