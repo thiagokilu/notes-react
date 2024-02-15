@@ -1,3 +1,4 @@
+#Portuguese
 # Projeto na Trilha de React da Rocketseat no NLW
 
 ![Thumbnail.png](https://i.ibb.co/dW30kvw/Thumbnail.png)
@@ -36,9 +37,8 @@ npm i react-toastify
 npm run dev
 ```
 
+# Inglish
 # Project on Rocketseat's React Track at NLW
-
-![Thumbnail.png](https://i.ibb.co/dW30kvw/Thumbnail.png)
 
 This project was created during the React track of Rocketseat's Next Level Week, using React and [Vite](https://vitejs.dev/) to set up the project base. Additionally, the following libraries were used:
 
