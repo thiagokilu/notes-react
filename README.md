@@ -45,4 +45,7 @@ npm run dev
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT.
+# Project Title
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
