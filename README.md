@@ -7,4 +7,3 @@ E bibliotecas como:
 
 ```bash
  npm install git
-```
