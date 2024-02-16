@@ -1,4 +1,4 @@
-# Project on Rocketseat's React Track at NLW
+# React notes
 
 ![Thumbnail.png](https://i.ibb.co/dW30kvw/Thumbnail.png)
 
